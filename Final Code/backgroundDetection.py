@@ -1,3 +1,7 @@
+"""
+	Code adapted from https://pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
+"""
+
 # import the necessary packages
 from scipy.spatial import distance as dist
 from imutils import perspective
