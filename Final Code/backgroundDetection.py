@@ -21,7 +21,7 @@ ap.add_argument("-i", "--image", required=True,
 ap.add_argument("-w", "--width", type=float, required=True,
 	help="width of the left-most object in the image (in inches)")
 
-# cam=cv2.VideoCapture(0)
+cam=cv2.VideoCapture(0)
 
 
 
